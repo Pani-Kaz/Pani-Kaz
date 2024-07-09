@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Pani full-stack developer 👨‍💻 I like to create innovative projects</div>  
       
     
-   - 🔭 I'm currently working on [Xgrow]([https://www.xgrow.com/))  
+   - 🔭 I'm currently working on [Xgrow]([https://www.xgrow.com/])  
       
     
    - 🌼I am currently studying Java  
