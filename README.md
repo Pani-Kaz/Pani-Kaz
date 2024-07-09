@@ -6,16 +6,13 @@
 ### <div align="center">Hi, I'm Pani full-stack developer 👨‍💻 I like to create innovative projects</div>  
       
     
-   - 🔭 I'm currently working on [Bom Zap](https://bomzap.com.br)  
+   - 🔭 I'm currently working on [Xgrow]([https://bomzap.com.br](https://www.xgrow.com/))  
       
     
-   - 🌼I am currently studying Java and Ruby  
+   - 🌼I am currently studying Java  
       
     
-   - 👨‍🎓 Student for 7 years  
-      
-    
-   - 🧙‍♂️ Mage in firebase  
+   - 👨‍🎓 Dev 8 years ago  
       
     
    <br/>  
