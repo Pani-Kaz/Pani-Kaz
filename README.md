@@ -6,13 +6,9 @@
 ### <div align="center">Hi, I'm Pani full-stack developer 👨‍💻 I like to create innovative projects</div>  
       
     
-   - 🔭 I'm currently working on [Xgrow](https://www.xgrow.com/)  
+   - 🔭 I'm currently working on [Pani tech](https://panitech.com.br/), [FabiAi](https://fabiai.com.br/), [BomChat](https://bomchat.com.br/) and [ConsórcioGo](https://consorciogo.com/)
       
-    
-   - 🌼I am currently studying Java  
-      
-    
-   - 👨‍🎓 Dev 8 years ago  
+   - 👨‍🎓 Dev 11 years ago  
       
     
    <br/>  
